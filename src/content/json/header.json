@@ -1,0 +1,79 @@
+{
+    "website_name": "Nyaydarshan",
+    "website_main_heading": "NYAYDARSHAN",
+    "website_sub_heading": "A Human Rights NGO",
+    "headers":[
+        {
+            "name": "Home",
+            "urlname": "Home",
+            "li_classname": "active",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "About",
+            "urlname": "About",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "Get Involved",
+            "urlname": "",
+            "li_classname": "",
+            "a_classname": "nyd-sub-ddown sf-with-ul",
+            "submenu":[
+                {
+                    "name": "Know Your Rights",
+                    "urlname": "KnowYourRights",
+                    "li_classname": "",
+                    "a_classname": "",
+                    "submenu":[]
+                },
+                {
+                    "name": "Newsletter",
+                    "urlname": "Newsletter",
+                    "li_classname": "",
+                    "a_classname": "",
+                    "submenu":[]
+                },
+                {
+                    "name": "Donations",
+                    "urlname": "Donations",
+                    "li_classname": "",
+                    "a_classname": "",
+                    "submenu":[]
+                }
+            ]
+        },
+        {
+            "name": "Projects",
+            "urlname": "Projects",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        },
+        
+        {
+            "name": "Gallery",
+            "urlname": "Gallery",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "Partners",
+            "urlname": "Partners",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "Contact",
+            "urlname": "Contact",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        }
+    ]
+}

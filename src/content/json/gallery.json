@@ -1,0 +1,36 @@
+{
+    "title": "Our Gallery",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.",
+    "images": [
+        {
+            "title": "Give Love",
+            "subtitle": "Donation is caring",
+            "imageurl":"/images/gallery/cover_bg_1.jpg"
+        },
+        {
+            "title": "Give Love",
+            "subtitle": "Donation is caring",
+            "imageurl":"/images/gallery/cover_bg_1.jpg"
+        },
+        {
+            "title": "Give Love",
+            "subtitle": "Donation is caring",
+            "imageurl":"/images/gallery/cover_bg_1.jpg"
+        },
+        {
+            "title": "Give Love",
+            "subtitle": "Donation is caring",
+            "imageurl":"/images/gallery/cover_bg_1.jpg"
+        },
+        {
+            "title": "Give Love",
+            "subtitle": "Donation is caring",
+            "imageurl":"/images/gallery/cover_bg_1.jpg"
+        },
+        {
+            "title": "Give Love",
+            "subtitle": "Donation is caring",
+            "imageurl":"/images/gallery/cover_bg_1.jpg"
+        }
+    ]
+}

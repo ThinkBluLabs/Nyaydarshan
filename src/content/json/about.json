@@ -1,0 +1,50 @@
+{   "page_title": "About Us",
+    "page_contents": [
+        {
+            "title": "Briefings",
+            "content": "Human Rights Protection Group & MFP Federation (ਹਿਊਮਨ ਰਾਇਟ੍ਸ ਪ੍ਰੋਟੇਕ੍ਸ਼੍ਹਨ ਗਰੁਪ) (ह्यूमन राइट्स प्रोटेक्षन ग्रुप) (previously known as Middle Finger Protests) has been involved in human rights activities in India since 2006. Led by Prabhloch, the organization was the first to act in the Jessica Lal murder case from Manu Sharma's hometown Chandigarh. It was also featured in the Bollywood movie 'No One Killed Jessica' in 2011. Apart from its several activities and initiatives, ​the pressure group and human rights organisation has contributed to some of the biggest reversals of injustice in India by helping in public opinion formation and organising peaceful candle light vigils during the Jessica Lal case, Nirbhaya case, etc. . This group is just not another human rights organisation, its a force, a force thats full of positive energy & dedication towards human rights protection. The group's leader, Prabhloch Singh, is a human rights activist, deejay, corporate employee and a social activist. The organisation along with its founder Prabhloch was made a part of a human rights case study on Media Influence, Rule of Law, and Civic Action in India by the Florida State University through an Honors Theses submitted to and approved by the Defense Committee of the Department of International Affairs, USA. The NGO is now focussed on Community Welfare and United Nations Sustainable Development Goals. Visit the press section to know more about our work!"
+        },
+        {
+            "title": "'Its time to Cut the Crap!'",
+            "content": "Most of us want to do something for the society. But we are all so busy with our personal and professional lives that despite of having a heart that wants to help others, we continue to turn our back towards something that our inner voice always asks us to do - help others. Its high time we cut the crap and do whatever we can in whatever way possible to stand up for and protect others rights."
+        },
+        {
+            "title": "Why we created humanrights.in?",
+            "content": "There are several amongst us that can contribute to the society. We are either not able to take out time or we're just too laid back. After all, enjoying a session of evening drinks is much easier than volunteering for a Human Rights organisation to fight for someone else's life. But the joy that one gets upon seeing a smile on the face of someone whose been a victim of human rights violation is uncomparable. We've created this site to help you learn about the organisations that are selflessly working towards the protection of human rights and social causes so that you can support an organisation that you relate to. We provide all the information that you would need, from membership criterias to contact details of some of the most respected organisations in India. This website is not just about Middle Finger Protests (Human Rights Protection Group) but about the spirit of volunteering, and protecting human rights!"
+        },
+        {
+            "title": "Our Philantrophist",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis."
+        }
+    ],
+
+    "founders": [
+        {
+            "name": "ABC",
+            "designation": "ASCSC",
+            "message": "Dummy DAta Dummy DAta Dummy DAtaDummy DAtav Dummy DAta Dummy DAta Dummy DAta",
+            "imgurl": "/images/founder/person_1.jpg",
+            "facebookurl": "",
+            "linkedinurl":"",
+            "twitterurl": ""
+        },
+        {
+            "name": "ABC",
+            "designation": "ASCSC",
+            "message": "Dummy DAta Dummy DAta Dummy DAtaDummy DAtav Dummy DAta Dummy DAta Dummy DAta",
+            "imgurl": "/images/founder/person_2.jpg",
+            "facebookurl": "",
+            "linkedinurl":"",
+            "twitterurl": ""
+        },
+        {
+            "name": "ABC",
+            "designation": "ASCSC",
+            "message": "Dummy DAta Dummy DAta Dummy DAtaDummy DAtav Dummy DAta Dummy DAta Dummy DAta",
+            "imgurl": "/images/founder/person_3.jpg",
+            "facebookurl": "",
+            "linkedinurl":"",
+            "twitterurl": ""
+        }
+    ]
+}

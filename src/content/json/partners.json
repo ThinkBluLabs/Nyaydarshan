@@ -1,0 +1,33 @@
+{
+    "title": "Simplified Version",
+    "content": "This simplified version of the 30 Articles of the Universal Declaration of Human Rights has been created especially for young people.",
+    "partners": [
+        {
+            "name": "ABC",
+            "designation": "ASCSC",
+            "message": "Dummy DAta Dummy DAta Dummy DAtaDummy DAtav Dummy DAta Dummy DAta Dummy DAta",
+            "imgurl": "/images/founder/person_1.jpg",
+            "facebookurl": "",
+            "linkedinurl":"",
+            "twitterurl": ""
+        },
+        {
+            "name": "ABC",
+            "designation": "ASCSC",
+            "message": "Dummy DAta Dummy DAta Dummy DAtaDummy DAtav Dummy DAta Dummy DAta Dummy DAta",
+            "imgurl": "/images/founder/person_2.jpg",
+            "facebookurl": "",
+            "linkedinurl":"",
+            "twitterurl": ""
+        },
+        {
+            "name": "ABC",
+            "designation": "ASCSC",
+            "message": "Dummy DAta Dummy DAta Dummy DAtaDummy DAtav Dummy DAta Dummy DAta Dummy DAta",
+            "imgurl": "/images/founder/person_3.jpg",
+            "facebookurl": "",
+            "linkedinurl":"",
+            "twitterurl": ""
+        }
+    ]
+}

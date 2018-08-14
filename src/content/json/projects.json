@@ -1,0 +1,54 @@
+{
+    "title": "Our Projects. Support Us",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.",
+    "projects": [
+        {
+            "title": "Water Project In Kenya",
+            "subtitle": "",
+            "date" : "23rd Sept 17",
+            "brief_description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "image_alttext" : "",
+            "imageurl":"images/newsletter/cover_bg_1.jpg"
+        },
+        {
+            "title": "Shelter Giving",
+            "subtitle": "",
+            "date" : "23rd Sept 17",
+            "brief_description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "image_alttext" : "",
+            "imageurl":"images/newsletter/cover_bg_1.jpg"
+        },
+        {
+            "title": "Medical Mission",
+            "subtitle": "",
+            "date" : "23rd Sept 17",
+            "brief_description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "image_alttext" : "",
+            "imageurl":"images/newsletter/cover_bg_1.jpg"
+        },
+        {
+            "title": "Water Project In Kenya",
+            "subtitle": "",
+            "date" : "23rd Sept 17",
+            "brief_description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "image_alttext" : "",
+            "imageurl":"images/newsletter/cover_bg_1.jpg"
+        },
+        {
+            "title": "Shelter Giving",
+            "subtitle": "",
+            "date" : "23rd Sept 17",
+            "brief_description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "image_alttext" : "",
+            "imageurl":"images/newsletter/cover_bg_1.jpg"
+        },
+        {
+            "title": "Medical Mission",
+            "subtitle": "",
+            "date" : "23rd Sept 17",
+            "brief_description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "image_alttext" : "",
+            "imageurl":"images/newsletter/cover_bg_1.jpg"
+        }
+    ]
+}
